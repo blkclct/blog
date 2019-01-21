@@ -2,6 +2,86 @@
 title: About
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Morbi tincidunt ornare massa eget egestas purus viverra. Phasellus faucibus scelerisque eleifend donec pretium vulputate sapien. Potenti nullam ac tortor vitae. Vitae sapien pellentesque habitant morbi tristique. Aliquam sem et tortor consequat id porta nibh venenatis cras. Integer vitae justo eget magna fermentum iaculis eu. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam. Mattis enim ut tellus elementum sagittis. Adipiscing enim eu turpis egestas pretium aenean pharetra magna. Ullamcorper malesuada proin libero nunc consequat interdum varius. Pellentesque id nibh tortor id aliquet lectus proin nibh nisl. Est ullamcorper eget nulla facilisi etiam dignissim diam quis enim. Eget nunc scelerisque viverra mauris in aliquam sem fringilla. Vitae tempus quam pellentesque nec nam aliquam sem et tortor.
+****
+# *HIROKI FUJIMOTO*
 
-Tellus molestie nunc non blandit massa. Porttitor leo a diam sollicitudin. Malesuada pellentesque elit eget gravida cum sociis natoque. Ultricies leo integer malesuada nunc vel risus commodo viverra. Amet porttitor eget dolor morbi non arcu. Bibendum arcu vitae elementum curabitur vitae nunc. Ut sem nulla pharetra diam sit amet. Ac feugiat sed lectus vestibulum mattis ullamcorper. Eu volutpat odio facilisis mauris sit amet massa vitae. Semper eget duis at tellus at urna condimentum mattis pellentesque. Tincidunt dui ut ornare lectus sit amet. Sed augue lacus viverra vitae congue eu. Nisi lacus sed viverra tellus. Sed id semper risus in. Urna nunc id cursus metus aliquam.
+### *@blkclct*
+****
+****
+
+
+## 自己紹介
+### 経歴
+- 広島県広島市内生まれ
+- 広島県立広島井口高等学校
+- 広島市立大学情報科学部医用情報科学科
+
+└ **中学、高校時代**は, 陸上競技（長距離部門）に打ち込んだ
+
+└ **大学時代**は, 主に読書とプログラミングに打ち込んだ
+
+    - スタートアップの働き方に興味を持ち始める
+
+****
+### エンジニアリング
+#### 経験のある言語, フレームワーク
+- Ruby（Ruby on Rails）
+- HTML, CSS
+- JS: Vue.js（VuePress）
+- C, C++
+- Swift
+- ReactNative
+
+****
+```
+- Ruby（Ruby on Rails）
+-> 広島のスタートアップにてWebアプリケーションの作成に従事.
+主には, アプリケーションの保守（権限管理など）をした.リファクタリングやRspecによるテストの強化, DBの整理等をしながら機能
+開発も行った.
+- HTML, CSS
+-> 主には, 広島のベンチャー企業にてWebサイトのマークアップをした. （Photoshopに上がったデザインカンプから）
+- JS: Vue.js（VuePress）
+-> 静的サイトジェネレータを使ったポートフォリオサイトの作成に使った.
+- C, C++
+-> 大学の授業, 大学の研究でLED照明やカメラの制御, 色の要素を測るためのプログラムの作成に使った.
+- Swift
+-> オンライン学習Udemyの授業を受講して何個かアプリケーションを作成した.
+- ReactNative
+-> 動画メディアを作った.
+```
+****
+
+#### 挑戦したい技術
+- Ruby（Ruby on Rails）
+- Go（Golang）
+- JS: Vue.js（Nuxt.js等）
+- AWS/GCP 全般
+- AR（WebSocket関連）
+
+****
+### 読書
+#### ビジネス書, 自己啓発書, 小説, 技術書等　**一部**
+
+『イシューからはじめよ』『政策立案の技法』『知的複眼思考法』『7つの習慣』『クリティカルシンキング』『教養としての経済学』『全員経営』『起業のファイナンス』『これからの「正義」の話をしよう』『イノベーションのジレンマ』『ワーク・シフト』『社会が変わるマーケティング』『ソーシャル・マーケティング』『善意で貧困はなくせるか？』『貧困のない世界を創る』『ソーシャル・ビジネス革命』『貧困の終焉ー2025年までに世界を変える』『最底辺のポートフォリオ』『マネジメント・開発・NGO』『未来に先回りする思考法』『組織の掟』『読書の技法』『武器としての決断思考』『武器としての交渉思考』『君に友だちはいらない』『僕は君たちに武器を配りたい』『戦略読書日記』『ゼロ・トゥー・ワン』『伝える力』『伝える力２』『そうだったのか！現代史』『「リーダーの条件」が変わった』『V字回復の経営』『戦略プロフェッショナル』『学問のすヽめ』『君たちはどう生きるか』『大学生のためのレポート・論文術』『決断力』『黒子の流儀』『不格好経営』『「みんなの意見」は案外正しい』『ゼロ』『君はどこにでも行ける』『働く君に伝えたい「お金」の教養 人生を変える5つの特別講義』 『経営戦略全史』『諦める力』『入社1年目の教科書』『伝え方が9割』『社会をよくしてお金も稼げるしくみのつくりかた』『ファンドレイジングが社会を変える』『マッキンゼー流入社1年目問題解決の教科書』『採用基準』『遠き落日』『コンビニ人間』 『蜜蜂と遠雷』『花埋み』『天地明察』 『フェルマーの最終定理』『白い巨塔』『暗号解読』『1Q84』『風の歌を聴け』『存在の耐えられない軽さ』『ティファニーで朝食を』『1973年のピンボール』『アフターダーク』『ねじまき鳥クロニクル』『羊をめぐる冒険』『ノルウェイの森』『色彩を持たない多崎つくると、彼の巡礼の年』『海辺のカフカ』『マリアビートル』『チルドレン』『バイバイ、ブラックバード』『貧しき人びと』『コインロッカー・ベイビーズ』『だいじょうぶマイ・フレンド』『ダンス・ダンス・ダンス』『キッチン』『限りなく透明に近いブルー』『インザミソスープ』『How Google Works 私たちの働き方とマネジメント』『スプートニクの恋人』 『グロテスク』『OUT』『ヘヴン』『すべて真夜中の恋人たち』『坑夫』『アンダーグラウンド』『坊ちゃん』『こころ』『「エンタメ」の夜明け』『夏子の冒険』『命売ります』『半島を出よ』『潮騒』『お嬢さん』『国境の南、太陽の西』『日本再興戦略』『リーンスタートアップ』『人生の勝算』『大江健三郎自選短篇集』
+『擬人化で学ぼ!ネットワークのしくみ』『オブジェクト志向における再利用のためのデザインパターン』『ネットワークはなぜつながるのか』『リーダブルコード』『Team GEEK』『はたらくきほん100 毎日がスタートアップ』『Everybody Rails』『オブジェクト志向設計実践ガイド』『オブジェクト志向でなぜつくるのか』『達人に学ぶDB設計徹底指南書』『UMLモデリングのエッセンス』『反応しない練習』『走ることについて語るとき僕の語ること』『予想通りに不合理』『Rubyによるデザインパターン』『多動力』『不愉快なことには理由がある』『残酷な世界で生き延びるたったひとつの方法』『ホモ・デウス』等
+
+**** 
+### 趣味
+- **読書**
+- **カープ観戦**
+ -> 堂林翔太
+- **旅行**
+ -> セブ/香港/ハワイ/東京/千葉/神奈川/大阪/京都/奈良/和歌山/兵庫/岡山/島根/鳥取/山口/香川/愛媛/高知/徳島/福岡
+- **漫画**
+ -> キングダム/寄生獣/進撃の巨人/HUNTER×HUNTER/ザ・ファブル/ブルーピリオド/セトウツミ/王様達のヴァイキング/亜人/左利きのエレン/彼方のアストラ/インベスターZ/ナニワ金融道/ワンピース/ドラゴンボール/スラムダンク/弱虫ペダル/テニスの王子様/TERA FORMARS/鬼死ね/東京卍リベンジャーズ/囚人リク/南瓜とマヨネーズ/アダムとイブ/山と食欲と私/YASHA/夜王
+- **競馬**
+-> 最初に好きになった馬:コスモサンビーム（2003年朝日杯FS制覇）
+- **サウナ**
+- **黒い洋服収集**
+- **猫**
+ -> サバトラ♂と生活中
+
+### これからしたいこと
+- コーヒー
+-> オリジナルの豆を出品できるくらいまでの頑張りたい
+-> メディアを作りたい
