@@ -1,17 +1,12 @@
-## CMS.js Starter
+## ブログの更新方法
 
-**Quick Start**
+**リモートリポジトリに直接書き込む場合**
 
-1. Clone this repo: `git clone https://github.com/chrisdiana/cms.js-starter.git`
-2. Configure `js/config.js` to your liking
-3. Make sure to set your Github settings in `js/config.js` if using Github mode
-4. If using Github mode, create a new branch from your master or working branch called `gh-pages` (Github's default branch for hosting)
-5. Visit your site! (which should be located at `https://yourusername.github.io/cms.js-starter`)
-
-
-![CMS.js Screenshot](https://raw.githubusercontent.com/chrisdiana/cms.js/gh-pages/img/screenshot.png)
-
-## Learn more about CMS.js
-
-* Visit the [CMS.js repo](https://github.com/chrisdiana/cms.js) to learn more
-* Get more themes and templates [here](https://chrisdiana.github.io/cms.js-themes)
+1. blog/postsのファイルに移動する
+2. Create new fileでファイルの新規作成を行う
+3. blog/posts/□　この部分に題名を設定する
+4. 西暦-月-日-題名.md の形成で記述する　
+※ここで、.mdを忘れるとブラウザに反映されることはありません
+5. Edit new fileに記事を書きます　マークダウンで書きます
+6. 書き終えたらコミットします
+7. 直接作業ブランチにコミットすると、コミットログは汚れます
